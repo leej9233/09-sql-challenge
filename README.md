@@ -1,4 +1,4 @@
-Module 9: SQL Challenge
+# Unit 9 Homework: Employee Database
 
 ## Background
 
@@ -91,6 +91,18 @@ As you examine the data, you begin to suspect that the dataset is fake. Maybe yo
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
 * Ensure your repository has regular commits and a thorough README.md file
+
+## Rubric
+
+[Unit 9 Homework Rubric](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
+
+- - -
+
+## References
+
+Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+
+- - -
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
